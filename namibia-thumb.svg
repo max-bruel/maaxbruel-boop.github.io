@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#112032"/>
+  <circle cx="925" cy="185" r="210" fill="none" stroke="#6dc4b5" stroke-width="2" opacity=".45"/>
+  <circle cx="925" cy="185" r="145" fill="none" stroke="#ffffff" stroke-width="1" opacity=".12"/>
+  <path d="M720 510 C790 445 845 405 925 380 C995 358 1060 355 1150 375" fill="none" stroke="#d9c59f" stroke-width="5" opacity=".8"/>
+  <text x="86" y="150" fill="#6dc4b5" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="5">ENERGY · INFRASTRUCTURE · FINANCE</text>
+  <text x="86" y="255" fill="#ffffff" font-family="Georgia, serif" font-size="70">Greening Namibia’s</text>
+  <text x="86" y="335" fill="#ffffff" font-family="Georgia, serif" font-size="70">Energy Future</text>
+  <text x="86" y="430" fill="#aeb7c4" font-family="Arial, Helvetica, sans-serif" font-size="29">Grid extension vs decentralised renewable electrification</text>
+  <text x="86" y="600" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">Individual project · 76%</text>
+</svg>
