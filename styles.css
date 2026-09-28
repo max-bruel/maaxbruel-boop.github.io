@@ -36,8 +36,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .eyebrow { text-transform:uppercase; font-size:12px; letter-spacing:.19em; font-weight:800; color:var(--accent); margin:0 0 19px; }
 .eyebrow.dark { color:var(--accent-deep); }
 .hero h1 { font-family: Georgia, "Times New Roman", serif; font-weight:500; font-size:clamp(72px, 9vw, 126px); letter-spacing:-.055em; line-height:.88; margin:0 0 32px; }
-.hero-lede { font-family: Georgia, "Times New Roman", serif; font-size:clamp(25px, 3vw, 38px); line-height:1.22; max-width:760px; margin:0 0 20px; color:#eef0f3; }
-.hero-sub { font-size:16px; color:#aeb7c4; line-height:1.6; max-width:610px; margin:0; }
+.hero-lede { font-family: Georgia, "Times New Roman", serif; font-size:clamp(21px, 2.35vw, 31px); line-height:1.28; max-width:760px; margin:0 0 20px; color:#eef0f3; }
+.hero-sub { font-size:14px; color:#aeb7c4; line-height:1.65; max-width:610px; margin:0; }
 .hero-actions { display:flex; gap:12px; flex-wrap:wrap; margin-top:34px; }
 .button { display:inline-flex; align-items:center; justify-content:center; min-height:46px; padding:0 18px; border-radius:999px; text-decoration:none; font-weight:750; font-size:14px; transition:.2s ease; }
 .button-light { background:#fff; color:var(--ink); }
@@ -148,7 +148,7 @@ h2 { font-family: Georgia, "Times New Roman", serif; font-weight:500; font-size:
   .nav a:not(.nav-cta) { display:none; }
   .hero { padding-top:46px; }
   .hero h1 { font-size:68px; }
-  .hero-lede { font-size:26px; }
+  .hero-lede { font-size:23px; }
   .hero-photo-wrap { width:260px; }
   .intro-grid { grid-template-columns:1fr; }
   .intro-grid>div { border-right:0; border-top:1px solid var(--line); padding:19px 0; }
